@@ -240,7 +240,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
+    <td>Continuación de la web de edición de imágenes con la incorporación del sistema de escalado.</td>
     <td>6:30</td>
     <td></td>
   </tr>
