@@ -245,7 +245,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Continuación de la web de edición de imágenes con la refactorización de código e intento de solución de diversos problemas.</td>
+    <td>Continuación de la web de edición de imágenes con la refactorización de código, mejorando sistema de escalado e intento de solución de diversos problemas.</td>
     <td>6:30</td>
     <td></td>
   </tr>
