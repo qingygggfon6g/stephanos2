@@ -256,7 +256,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Ayuda en el arreglo de los portátiles del aula desdible 2.1</td>
+    <td>Ayuda en el arreglo de los portátiles del aula desdoble 2.1 + continuación de la página web de edición de imágenes.</td>
     <td>6:30</td>
     <td></td>
   </tr>
