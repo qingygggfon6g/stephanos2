@@ -250,7 +250,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Continuación de la web de edición de imágenes: Intentos de solución errores de seleccionado de capas.</td>
     <td>6:30</td>
     <td></td>
   </tr>
